@@ -13,5 +13,9 @@ int main() {
   // read the values
   cin >> ch1 >> ch2 >> val;
 
-  //
+  
+  // show what was stored
+  cout << "\nch1 = " << ch1 << endl;
+  cout << "ch2 = " << ch2 << endl;
+  cout << "val = " << val << endl;
 }
