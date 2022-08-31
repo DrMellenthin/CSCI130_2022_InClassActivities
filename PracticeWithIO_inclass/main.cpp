@@ -1,5 +1,9 @@
 #include <iostream>
+#include <string>
+using namespace std;
 
 int main() {
-  std::cout << "Hello World!\n";
+  // allocate space
+  char c1, c2;
+  int n;
 }
